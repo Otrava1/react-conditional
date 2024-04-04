@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.dropdown-list {
+  display: none;
+}
+
+.is-displayed {
+  display: block;
+}
